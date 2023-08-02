@@ -13,7 +13,7 @@ pip install nbdev_hello_world
 
 ## How to use
 
-Fill me in please! Don’t forget code examples: View Documentation at
+View Documentation at
 
 https://johnnewto.github.io/nbdev-hello-world/
 
